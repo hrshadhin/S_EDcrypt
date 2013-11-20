@@ -1,16 +1,14 @@
 S_EDcrypt
 =========
- 
-|==============================================|
-|           Help Note Of S_EDcrypt             |
-|==============================================|
+
      
-    This 'S_EDcrypt' is a simple encryption program based on \n'Vigenère cipher' method with some  extended functionality.
-    Its do both encryption and decryption.
+      This 'S_EDcrypt' is a simple encryption program based on \n'Vigenère cipher' method with some  extended functionality.
+      Its do both encryption and decryption.
      
-     Usage syntax:
-     ===============
-    ./S_EDcrypt <input file> <output file> <key>
+Usage syntax:
+===============
+   
+      ./S_EDcrypt <input file> <output file> <key>
     
      
 Product Info:
@@ -22,5 +20,5 @@ Product Info:
        
 ScreenShots:
 ===========
-     <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png" height="500px" width="600px" >
-    <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png" height="500px" width="600px" >
+    <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png"  >
+    <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png"  >
