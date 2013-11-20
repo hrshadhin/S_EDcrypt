@@ -1,9 +1,10 @@
 S_EDcrypt
 =========
-
-     |==============================================|
-     |           Help Note Of S_EDcrypt             |
-     |==============================================|
+ 
+|==============================================|
+|           Help Note Of S_EDcrypt             |
+|==============================================|
+     
     This 'S_EDcrypt' is a simple encryption program based on \n'Vigenère cipher' method with some  extended functionality.
     Its do both encryption and decryption.
      
@@ -12,14 +13,14 @@ S_EDcrypt
     ./S_EDcrypt <input file> <output file> <key>
     
      
-     Product Info:
-     =============
+Product Info:
+=============
   
        Name: S_EDcrypt
        Version:1.13.11
        
        
-     ScreenShots:
-     ============
-     <img src='https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png' height='500px' width='600px' >
-      <img src='https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png' height='500px' width='600px' >
+ScreenShots:
+===========
+     <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png" height="500px" width="600px" >
+    <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png" height="500px" width="600px" >
