@@ -2,8 +2,9 @@ S_EDcrypt
 =========
 
      
-      This 'S_EDcrypt' is a simple encryption program based on \n'Vigenère cipher' method with some  extended functionality.
-      Its do both encryption and decryption.
+   This 'S_EDcrypt' is a simple encryption program based on 'Vigenère cipher'
+   method with some extended functionality.
+   Its do both encryption and decryption.
      
 Usage syntax:
 ===============
@@ -20,5 +21,5 @@ Product Info:
        
 ScreenShots:
 ===========
-    <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png"  >
-    <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png"  >
+ <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png"  alt="screenshot" >
+ <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png" alt="screenshot" >
