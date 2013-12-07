@@ -9,17 +9,17 @@ S_EDcrypt
 Usage syntax:
 ===============
    
-      ./S_EDcrypt <input file> <output file> <key>
+      ./S_EDcrypt <input file> <output file>
     
      
 Product Info:
 =============
   
        Name: S_EDcrypt
-       Version:1.13.11
+       Version:1.13.12
        
        
 ScreenShots:
 ===========
- <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/1.png"  alt="screenshot" >
- <img src="https://dl.dropboxusercontent.com/u/37994695/software/gitpic/2.png" alt="screenshot" >
+ <img src="1.png"  alt="screenshot" >
+ <img src="2.png" alt="screenshot" >
